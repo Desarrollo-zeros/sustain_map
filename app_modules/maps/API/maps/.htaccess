@@ -1,0 +1,5 @@
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine on
+
+RewriteRule ^([a-zA-Z_-]*)$ maps.php?solicitud=$1

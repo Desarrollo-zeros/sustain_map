@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83746e74-c7a9-4bd5-a209-697920e97dd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app_modules/maps/API/maps/maps.php" beforeDir="false" afterPath="$PROJECT_DIR$/app_modules/maps/API/maps/maps.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Core/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Core/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/Core/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Core/vendor/composer" />
+      <path value="$PROJECT_DIR$/Core/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/Core/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/Core/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Core/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/Core/vendor/markbaker/complex" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lP5nmo2PykNennGv2ifR2VmBZJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83746e74-c7a9-4bd5-a209-697920e97dd3" name="Default Changelist" comment="" />
+      <created>1607486054333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607486054333</updated>
+      <workItem from="1607486055426" duration="11398000" />
+      <workItem from="1607521864613" duration="10310000" />
+      <workItem from="1607890812634" duration="8527000" />
+      <workItem from="1607965468642" duration="391000" />
+      <workItem from="1608085169193" duration="8665000" />
+      <workItem from="1608129315280" duration="33000" />
+      <workItem from="1608512422144" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608129345737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1608129345737" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1607486230490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1607486230490" />
+    <state x="-49" y="68" width="585" height="534" key="find.popup" timestamp="1608085451880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-49" y="68" width="585" height="534" key="find.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1608085451880" />
+  </component>
+</project>

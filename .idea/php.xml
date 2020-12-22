@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Core/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/Core/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Core/vendor/composer" />
+      <path value="$PROJECT_DIR$/Core/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/Core/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/Core/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Core/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/Core/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/Core/vendor/markbaker/complex" />
+    </include_path>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+app_modules/assets/
+Core/vendor/
+Core/ConfigDB.php
+assets/
+uploads/
+.DS_Store
